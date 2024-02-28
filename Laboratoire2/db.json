@@ -1,0 +1,128 @@
+{
+  "publications": [
+    {
+      "id": "1",
+      "titre": "Explorer les possibilités de la technologie de demain",
+      "auteur": "Gerard Dubois",
+      "datePublication": "01/10/2023",
+      "contenu": "Les progrès de la technologie sont inévitables. De la robotique à l'intelligence artificielle, chaque jour apporte de nouvelles possibilités passionnantes. Mais qu'attendre de la technologie de demain ? Quelles innovations révolutionneront notre quotidien ? Dans cet article, nous explorerons les tendances émergentes et les défis à venir."
+    },
+    {
+      "id": "2",
+      "titre": "L'avenir de la technologie : prévisions et tendances pour 2023 et au-delà",
+      "auteur": "Max Tremblay",
+      "datePublication": "12/11/2023",
+      "contenu": "L'année 2023 promet d'être palpitante pour le monde de la technologie. Des avancées majeures dans les domaines de l'intelligence artificielle, de la réalité virtuelle et de la blockchain sont attendues. Dans cet article, nous examinerons de près ces tendances et discuterons de leurs implications à long terme."
+    },
+    {
+      "id": "3",
+      "titre": "Menaces de cybersécurité et comment protéger vos données",
+      "auteur": "Gerard Dubois",
+      "datePublication": "24/11/2023",
+      "contenu": "À l'ère numérique, la sécurité des données est plus importante que jamais. Les cybermenaces évoluent constamment, mettant en danger les informations sensibles des individus et des organisations. Dans cet article, nous passerons en revue les principales menaces de cybersécurité et partagerons des conseils pratiques pour protéger vos données."
+    },
+    {
+      "id": "4",
+      "titre": "Comment créer un site Web : un guide étape par étape pour les débutants",
+      "auteur": "Erica Maltais",
+      "datePublication": "01/12/2023",
+      "contenu": "Vous envisagez de créer votre propre site Web mais ne savez pas par où commencer ? Ne vous inquiétez pas, ce guide est là pour vous aider ! De l'enregistrement d'un nom de domaine au choix d'une plateforme de développement, nous vous guiderons à travers chaque étape du processus. Lancez-vous dans la création de votre site Web dès aujourd'hui !"
+    },
+    {
+      "id": "5",
+      "titre": "Comment utiliser les médias sociaux pour les entreprises : meilleures pratiques et astuces",
+      "auteur": "Erica Maltais",
+      "datePublication": "12/12/2023",
+      "contenu": "Les médias sociaux offrent un potentiel énorme pour les entreprises, mais il est essentiel de savoir comment les utiliser efficacement. Dans cet article, nous partagerons des conseils pratiques pour maximiser votre présence sur les plateformes sociales, engager votre public cible et développer votre entreprise. Découvrez les meilleures pratiques et astuces dès maintenant !"
+    },
+    {
+      "id": "6",
+      "titre": "Comment créer un chatbot : guide du débutant",
+      "auteur": "Louis Deschenes",
+      "datePublication": "24/12/2023",
+      "contenu": "Les chatbots sont devenus un outil essentiel pour de nombreuses entreprises, offrant un moyen efficace de communiquer avec les clients et d'automatiser les interactions. Dans ce guide, nous vous montrerons comment créer votre propre chatbot, des bases de la conception à l'implémentation. Lancez-vous dans le monde passionnant des chatbots dès aujourd'hui !"
+    },
+    {
+      "id": "7",
+      "titre": "L'importance du marketing numérique dans le paysage commercial d'aujourd'hui",
+      "auteur": "Louis Deschenes",
+      "datePublication": "01/01/2024",
+      "contenu": "Dans un monde de plus en plus numérique, le marketing en ligne est essentiel pour rester compétitif. Les entreprises qui maîtrisent les stratégies de marketing numérique ont un avantage significatif sur leurs concurrents. Dans cet article, nous explorerons l'importance croissante du marketing numérique et partagerons des conseils pour réussir dans cet environnement en constante évolution."
+    },
+    {
+      "id": "a9a8",
+      "titre": "Test2",
+      "auteur": "Mariane",
+      "datePublication": "2024/02/26",
+      "contenu": "Test2"
+    }
+  ],
+  "commentaires": [
+    {
+      "id": "1",
+      "publicationID": "1",
+      "datePublication": "02/10/2023",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "2",
+      "publicationID": "1",
+      "datePublication": "02/10/2023",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "3",
+      "publicationID": "2",
+      "datePublication": "25/11/2023",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "4",
+      "publicationID": "3",
+      "datePublication": "01/12/2023",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "6",
+      "publicationID": "3",
+      "datePublication": "24/11/2023",
+      "contenu": "AaaaaaaaaaaCccccccccccccccccccccccccccccccccccc"
+    },
+    {
+      "id": "7",
+      "publicationID": "4",
+      "datePublication": "02/01/2024",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "8",
+      "publicationID": "5",
+      "datePublication": "02/01/2024",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "9",
+      "publicationID": "6",
+      "datePublication": "14/02/2024",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "10",
+      "publicationID": "7",
+      "datePublication": "14/02/2024",
+      "contenu": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC"
+    },
+    {
+      "id": "2a7c",
+      "publicationID": "2",
+      "datePublication": "2024-02-27",
+      "contenu": "Premier test de commentaire"
+    },
+    {
+      "id": "207a",
+      "publicationID": "2",
+      "datePublication": "2024-02-27",
+      "contenu": "Troisieme texte commentaire"
+    }
+  ]
+}
